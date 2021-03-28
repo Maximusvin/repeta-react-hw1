@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/repeta-react-hw1/static/css/main.680d2103.chunk.css",
+    "main.js": "/repeta-react-hw1/static/js/main.0670f28c.chunk.js",
+    "main.js.map": "/repeta-react-hw1/static/js/main.0670f28c.chunk.js.map",
+    "runtime-main.js": "/repeta-react-hw1/static/js/runtime-main.22a297d6.js",
+    "runtime-main.js.map": "/repeta-react-hw1/static/js/runtime-main.22a297d6.js.map",
+    "static/js/2.b18a06b2.chunk.js": "/repeta-react-hw1/static/js/2.b18a06b2.chunk.js",
+    "static/js/2.b18a06b2.chunk.js.map": "/repeta-react-hw1/static/js/2.b18a06b2.chunk.js.map",
+    "index.html": "/repeta-react-hw1/index.html",
+    "static/css/main.680d2103.chunk.css.map": "/repeta-react-hw1/static/css/main.680d2103.chunk.css.map",
+    "static/js/2.b18a06b2.chunk.js.LICENSE.txt": "/repeta-react-hw1/static/js/2.b18a06b2.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/repeta-react-hw1/static/media/bg.29926e6f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.22a297d6.js",
+    "static/js/2.b18a06b2.chunk.js",
+    "static/css/main.680d2103.chunk.css",
+    "static/js/main.0670f28c.chunk.js"
+  ]
+}

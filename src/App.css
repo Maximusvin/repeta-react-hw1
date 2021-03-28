@@ -1,0 +1,140 @@
+.profile {
+  width: 400px;
+  background-color: #fff;
+  text-align: center;
+  padding-top: 30px;
+  box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+  margin-bottom: 50px;
+}
+
+.avatar {
+  width: 100px;
+  margin-bottom: 25px;
+  border-radius: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.description {
+  margin-bottom: 30px;
+}
+
+.name {
+  font-weight: 700;
+  font-size: 22px;
+  margin-bottom: 10px;
+}
+
+.tag,
+.location {
+  margin-bottom: 10px;
+  color: rgb(100, 100, 100);
+}
+
+.stats {
+  display: flex;
+  justify-content: space-between;
+}
+
+.stats li {
+  width: 33%;
+  padding: 15px;
+  background-color: rgb(218, 218, 218);
+}
+
+.stats li span {
+  display: block;
+}
+
+.label {
+  margin-bottom: 10px;
+}
+
+.quantity {
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.statistics {
+  width: 400px;
+  background-color: #fff;
+  text-align: center;
+  padding-top: 30px;
+  box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+  margin-bottom: 50px;
+}
+
+.title {
+  margin-bottom: 20px;
+  text-transform: uppercase;
+}
+
+.stat-list {
+  display: flex;
+  justify-content: space-between;
+  padding: 15px;
+  background-color: rgb(204, 204, 204);
+}
+.item {
+  text-align: center;
+}
+
+.item span {
+  display: block;
+}
+
+.percentage {
+  font-size: 18px;
+}
+
+.friend-list {
+  width: 400px;
+  background-color: #fff;
+  text-align: center;
+  padding: 30px;
+  box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+  margin-bottom: 50px;
+}
+
+.itemFriend {
+  width: 100%;
+  padding: 10px 35px;
+  box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+  margin-bottom: 15px;
+  display: flex;
+
+  align-items: center;
+}
+
+.statusFriends {
+  border-radius: 50%;
+  width: 20px;
+  height: 20px;
+  margin-right: 20px;
+}
+
+.online {
+  background-color: green;
+}
+
+.offline {
+  background-color: rgb(119, 5, 5);
+}
+
+.avatarFriends {
+  width: 80px;
+  margin-right: 15px;
+}
+
+.transaction-history {
+  width: 400px;
+  background-color: #fff;
+  text-align: center;
+  padding: 30px;
+  box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+  margin-bottom: 50px;
+}
+
+.tr td {
+  padding: 10px 0;
+}

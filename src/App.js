@@ -1,12 +1,23 @@
 import Layout from './components/Layout/Layout';
+import Profile from './components/Profile/Profile';
+import Statistics from './components/Statistics/Statistics';
+import FriendList from './components/FriendList/FriendList';
+import TransactionHistory from './components/TransactionHistory/TransactionHistory';
+
+import user from './DATA/user.json';
+import stats from './DATA/statistics.json';
+import friendsList from './DATA/friends-list.json';
+import transactions from './DATA/transactions.json';
 
 import './App.css';
 
 function App() {
   return (
     <Layout>
-      <h1>Home Work #2.2</h1>
-      <div>Hello</div>
+      <Profile user={user} />
+      <Statistics stats={stats} title="Upload stats" />
+      <FriendList friends={friendsList} />
+      <TransactionHistory transactions={transactions} />
     </Layout>
   );
 }
